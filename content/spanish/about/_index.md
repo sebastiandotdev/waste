@@ -6,4 +6,4 @@ image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+¡Hola! Soy Johan Sebastian Castro Garcia, un apasionado desarrollador de software con una mente creativa y una profunda pasión por la tecnología. Mi viaje en el desarrollo de software comenzó hace 2 años, cuando escribí mi primer "¡Hola, mundo!" en lenguaje de programación. Desde entonces, he estado en un emocionante viaje de aprendizaje y crecimiento constante. He tenido la oportunidad de trabajar en una variedad de proyectos desafiantes que abarcan desde aplicaciones web y móviles hasta soluciones empresariales de alto rendimiento.
