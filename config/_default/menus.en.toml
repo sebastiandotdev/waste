@@ -1,0 +1,54 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Inicio"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Sobre mi"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Labs Academy"
+url = "elements/"
+weight = 3
+
+[[main]]
+weight = 4
+name = "Servicios"
+hasChildren = true
+
+[[main]]
+parent = "Servicios"
+name = "Blog"
+url = "blog/"
+
+[[main]]
+parent = "Servicios"
+name = "Contactanos"
+url = "contact/"
+
+[[main]]
+parent = "Servicios"
+name = "Autores"
+url = "authors/"
+
+
+# footer menu
+[[footer]]
+name = "Sobre mi"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Contactanos"
+url = "contact/"
+weight = 2
+
+[[footer]]
+name = "Privacidad y politica"
+url = "privacy-policy/"
+weight = 3
