@@ -2,7 +2,7 @@
   "name": "labs",
   "description": "labs academy for future",
   "version": "1.8.0",
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "author": "castrogarciajs",
   "scripts": {
     "dev": "hugo server",
