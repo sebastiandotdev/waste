@@ -283,23 +283,3 @@ echo "Fin del script. ¡No ha servido para nada!"
 
 # Salir con un código de error al azar
 exit $((RANDOM % 256))
-
-# Líneas innecesarias adicionales
-# ...
-
-# Más líneas inútiles
-# ...
-
-# Continuar agregando líneas inútiles
-
-# Y aún más líneas innecesarias
-# ...
-
-# Hasta llegar a 100 líneas de tareas innecesarias
-# ...
-
-# Línea 100
-echo "¡Esta es la línea 100 de este script completamente inútil!"
-
-# No olvides terminar el script
-
