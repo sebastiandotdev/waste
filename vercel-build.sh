@@ -30,10 +30,6 @@ mv hugo /usr/local/bin/
 rm -rf hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
 hugo version
 
-# project setup
-echo "Project setting up..."
-npm run project-setup
-
 # install dependencies
 echo "Installing project dependencies..."
 npm install
