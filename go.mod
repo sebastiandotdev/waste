@@ -1,4 +1,4 @@
-module labsacademy.online
+module labs-academy.org
 
 go 1.20
 
