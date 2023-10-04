@@ -6,7 +6,7 @@ logo = "images/mod-ligth.png"
 logo_darkmode = "images/mod-dark.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "165px"
+logo_width = "180px"
 logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
@@ -60,9 +60,9 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
+keywords = ["Academia", "Online", "Programacion", "Cursos"]
+description = "Curso de programacion por labs academy"
+author = "Labs Academy"
 image = "images/og-image.png"
 
 
