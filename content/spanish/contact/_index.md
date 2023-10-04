@@ -1,6 +1,6 @@
 ---
-title: "Contact"
+title: "Contactanos"
 meta_title: ""
-description: "this is meta description"
+description: "Contacto de labas academy"
 draft: false
 ---
