@@ -88,10 +88,9 @@
               </p>
             </div>
             <div class="col-12">
-              <div class="swiper testimonial-slider">
-                <div class="swiper-wrapper">
+                <div class="flex gap-x-8 gap-y-8 items-center flex-col lg:flex-row">
                   {{ range .Params.testimonials }}
-                    <div class="swiper-slide">
+                    <div class="slide">
                       <div
                         class="bg-theme-light dark:bg-darkmode-theme-light rounded-lg px-7 py-10">
                         <div class="text-dark dark:text-white">
@@ -126,7 +125,6 @@
                     </div>
                   {{ end }}
                 </div>
-              </div>
             </div>
           </div>
         </div>

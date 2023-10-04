@@ -12,7 +12,7 @@ url = "about/"
 weight = 2
 
 [[main]]
-name = "Labs Academy"
+name = "Precios"
 url = "elements/"
 weight = 3
 
@@ -49,6 +49,6 @@ url = "contact/"
 weight = 2
 
 [[footer]]
-name = "Privacidad y politica"
+name = "Privacidad"
 url = "privacy-policy/"
 weight = 3

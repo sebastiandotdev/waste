@@ -9,7 +9,6 @@ const purgecss = {
     ];
   },
   safelist: [
-    /^swiper-/,
     /^lb-/,
     /^gl/,
     /^go/,

@@ -1,24 +1,32 @@
 #################### default parameters ################################
 # favicon
 favicon = "images/favicon-labs.png"
+
 # logo
 logo = "images/mod-ligth.png"
 logo_darkmode = "images/mod-dark.png"
+
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "180px"
 logo_height = "32px"
+
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
+
 # logo text will only show when logo is missing.
 logo_text = "Labs Academy"
+
 # navbar fixed to top
 navbar_fixed = true
+
 # theme-mode
 theme_switcher = true
 theme_default = "dark" # available options [light/dark/system]
+
 # Main Sections
 mainSections = ["blog"]
+
 # contact form action
 # contact form works with [https://airform.io/] or [https://formspree.io]
 contact_form_action = "https://airform.io/johancs.mm@gmail.com"

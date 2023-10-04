@@ -13,24 +13,4 @@
       e.target.parentElement.classList.toggle("active");
     });
   });
-
-  // Testimonial Slider
-  // ----------------------------------------
-  new Swiper(".testimonial-slider", {
-    spaceBetween: 24,
-    loop: false,
-    pagination: {
-      el: ".testimonial-slider-pagination",
-      type: "bullets",
-      clickable: true,
-    },
-    breakpoints: {
-      768: {
-        slidesPerView: 2,
-      },
-      992: {
-        slidesPerView: 3,
-      },
-    },
-  });
 })();

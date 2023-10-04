@@ -1,6 +1,7 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
 baseURL = "/"
+
 # Title of your website (required).
 title = "Labs Academy"
 
@@ -12,15 +13,21 @@ timeZone = "America/Bogota"
 
 # post pagination
 paginate = 2 # see https://gohugo.io/extras/pagination/
+
 # post excerpt
 summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
+
 # google analytics
-googleAnalytics = "G-MEASUREMENT_ID" # see https://gohugo.io/templates/internal/#configure-google-analytics
+googleAnalytics = "G-MEASUREMENT_ID" # see https://gohugo.io/templates/internal/
+
+#configure-google-analytics
 # disqus short name
-disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
+disqusShortname = "themefisher-template" 
+# we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
+
 # disable language
-disableLanguages = [
-] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
+disableLanguages = [] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
+
 hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 
 
@@ -124,8 +131,6 @@ notAlternative = true
 
 # CSS Plugins
 [[params.plugins.css]]
-link = "plugins/swiper/swiper-bundle.css"
-[[params.plugins.css]]
 link = "plugins/glightbox/glightbox.css"
 [[params.plugins.css]]
 link = "plugins/font-awesome/v6/brands.css"
@@ -137,8 +142,6 @@ link = "plugins/font-awesome/v6/icons.css"
 # JS Plugins
 [[params.plugins.js]]
 link = "js/search.js"
-[[params.plugins.js]]
-link = "plugins/swiper/swiper-bundle.js"
 [[params.plugins.js]]
 link = "plugins/glightbox/glightbox.js"
 [[params.plugins.js]]

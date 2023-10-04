@@ -1,6 +1,6 @@
-################ English language ##################
+################ language ##################
 [en]
-languageName = "Ens"
+languageName = "es"
 languageCode = "es-CO"
 contentDir = "content/spanish"
 weight = 1
