@@ -1,23 +1,13 @@
-######################## default configuration ####################
-# The base URL of your site (required). This will be prepended to all relative URLs.
 baseURL = "/"
-
-# Title of your website (required).
 title = "Labs Academy"
-
-# Your theme name
 theme = "hugoplate"
-
-# Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "America/Bogota"
 
-# post pagination
-paginate = 2 # see https://gohugo.io/extras/pagination/
 
-# post excerpt
-summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
+paginate = 2
 
-# google analytics
+summaryLength = 10
+
 googleAnalytics = "G-MEASUREMENT_ID" # see https://gohugo.io/templates/internal/
 
 #configure-google-analytics
