@@ -3,28 +3,28 @@
 @tailwind utilities;
 
 @layer base {
-  @import "base";
+  @import 'base';
 }
 
 @layer components {
-  @import "components";
-  @import "navigation";
-  @import "buttons";
+  @import 'components';
+  @import 'navigation';
+  @import 'buttons';
 }
 
 @layer utilities {
-  @import "utilities";
+  @import 'utilities';
 }
 
-@import "search";
-@import "social-share";
-@import "gallery-slider";
-@import "images";
-@import "toc";
-@import "tab";
-@import "accordion";
-@import "modal";
-@import "notice";
+@import 'search';
+@import 'social-share';
+@import 'gallery-slider';
+@import 'images';
+@import 'toc';
+@import 'tab';
+@import 'accordion';
+@import 'modal';
+@import 'notice';
 
-@import "module-overrides";
-@import "custom";
+@import 'module-overrides';
+@import 'custom';

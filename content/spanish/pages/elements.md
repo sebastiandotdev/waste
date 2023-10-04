@@ -1,9 +1,9 @@
 ---
-title: "Elements"
+title: 'Elements'
 # meta title
-meta_title: ""
+meta_title: ''
 # meta description
-description: "This is meta description"
+description: 'This is meta description'
 # save as draft
 draft: false
 ---
@@ -183,8 +183,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 This is an `Inline code` sample.
 
 ```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+var s = 'JavaScript syntax highlighting'
+alert(s)
 ```
 
 ```python

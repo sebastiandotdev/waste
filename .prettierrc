@@ -1,6 +1,8 @@
 {
   "$schema": "https://json.schemastore.org/prettierrc",
   "plugins": ["prettier-plugin-go-template"],
+  "semi": false,
+  "singleQuote": true,
   "overrides": [
     {
       "files": ["*.html"],

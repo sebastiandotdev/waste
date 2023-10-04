@@ -1,4 +1,3 @@
-
 # Academy Labs Setup
 
 ```bash
