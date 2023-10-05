@@ -16,27 +16,6 @@ name = "Cursos"
 url = "elements/"
 weight = 3
 
-[[main]]
-weight = 4
-name = "Servicios"
-hasChildren = true
-
-[[main]]
-parent = "Servicios"
-name = "Blog"
-url = "blog/"
-
-[[main]]
-parent = "Servicios"
-name = "Contactanos"
-url = "contact/"
-
-[[main]]
-parent = "Servicios"
-name = "Autores"
-url = "authors/"
-
-
 # footer menu
 [[footer]]
 name = "Sobre mi"
