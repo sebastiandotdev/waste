@@ -21,7 +21,7 @@ logo_text = "Labs Academy"
 navbar_fixed = true
 
 # theme-mode
-theme_switcher = true
+theme_switcher = false
 theme_default = "dark" # available options [light/dark/system]
 
 # Main Sections
