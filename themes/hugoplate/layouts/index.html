@@ -5,10 +5,10 @@
       <div class="container">
         <div class="row justify-center">
           <div class="lg:col-7 mb-8 text-center">
-            <h1 class="mb-4">
+            <h1 class="mb-8 text-6xl">
               {{ .title | markdownify }}
             </h1>
-            <p class="mb-8">
+            <p class="mb-8 text-2xl font-light font-primary">
               {{ .content | markdownify }}
             </p>
             {{ with .button }}
@@ -19,9 +19,6 @@
                 </a>
               {{ end }}
             {{ end }}
-          </div>
-          <div class="col-12">
-            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto" "Size" "800x") }}
           </div>
         </div>
       </div>

@@ -39,7 +39,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 custom_script = ""
 
 # copyright
-copyright = "copyright 2023 [Labs Academy](https://labsacademy.studio)"
+copyright = "Copyright (c) 2023 - [Labs Academy](https://labsacademy.studio)"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader

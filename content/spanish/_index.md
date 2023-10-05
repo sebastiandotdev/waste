@@ -1,9 +1,9 @@
 ---
 # Banner
 banner:
-  title: 'Bienvenido a Labs Academy Online, tu punto de partida hacia el emocionante mundo del desarrollo de web.'
+  title: 'Bienvenido a Labs Academy, tu punto de partida hacia el emocionante mundo del desarrollo de web.'
   content: 'Nuestro compromiso es proporcionar una experiencia de aprendizaje enriquecedora y práctica para que te conviertas en una persona altamente capacitado en tecnología. '
-  image: '/images/banner-astronaut.png'
+  image: '/images/labs-husky-jump.jpeg'
   button:
     enable: true
     label: 'Saber mas'
