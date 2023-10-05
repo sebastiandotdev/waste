@@ -3,7 +3,7 @@
 banner:
   title: 'Bienvenido a Labs Academy, tu punto de partida hacia el emocionante mundo del desarrollo de web.'
   content: 'Nuestro compromiso es proporcionar una experiencia de aprendizaje enriquecedora y práctica para que te conviertas en una persona altamente capacitado en tecnología. '
-  image: '/images/labs-husky-jump.jpeg'
+  image: '/images/labs-husky-gretting.jpeg'
   button:
     enable: true
     label: 'Saber mas'
@@ -27,7 +27,7 @@ features:
       link: 'contact'
 
   - title: 'Porque elegir Labs Academy?'
-    image: '/images/labs-husky-why.jpeg'
+    image: '/images/labs-husky-happy.jpeg'
     content: 'En Labs Academy, comprendemos que dar tus primeros pasos en el mundo del desarrollo de software puede parecer desafiante, pero estamos aquí para allanar el camino hacia tu éxito. Aquí tienes algunas razones por las que deberías elegirnos::'
     bulletpoints:
       - 'Enfoque en Principiantes.'

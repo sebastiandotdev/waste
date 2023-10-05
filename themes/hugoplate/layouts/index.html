@@ -1,14 +1,14 @@
 {{ define "main" }}
   <!-- Banner -->
   {{ with .Params.banner }}
-    <section class="section pt-14">
-      <div class="container">
+    <section class="section pt-14 flex items-center">
+      <div class="container flex-1">
         <div class="row justify-center">
-          <div class="lg:col-7 mb-8 text-center">
+          <div class="mb-8 text-center">
             <h1 class="mb-8 text-6xl">
               {{ .title | markdownify }}
             </h1>
-            <p class="mb-8 text-2xl font-light font-primary">
+            <p class="mb-8 text-xl font-light font-primary">
               {{ .content | markdownify }}
             </p>
             {{ with .button }}
@@ -20,6 +20,11 @@
               {{ end }}
             {{ end }}
           </div>
+        </div>
+      </div>
+      <div class="container flex-1">
+        <div class="col-12">
+          {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto" "Size" "580x") }}
         </div>
       </div>
     </section>
