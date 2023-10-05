@@ -3,9 +3,9 @@
     "default": {
       "theme_color": {
         "primary": "#121212",
-        "body": "#fff",
+        "body": "#FFFFFF",
         "border": "#eaeaea",
-        "theme_light": "#f6f6f6",
+        "theme_light": "#FFFFF",
         "theme_dark": ""
       },
       "text_color": {
@@ -31,8 +31,8 @@
   },
   "fonts": {
     "font_family": {
-      "primary": "Heebo:wght@400;600",
-      "primary_type": "sans-serif",
+      "primary": "IBM Plex Sans:wght@400;600",
+      "primary_type": "system-ui",
       "secondary": "Signika:wght@500;700",
       "secondary_type": "sans-serif"
     },

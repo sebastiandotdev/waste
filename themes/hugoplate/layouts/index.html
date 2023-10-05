@@ -5,10 +5,10 @@
       <div class="container">
         <div class="row justify-center">
           <div class="lg:col-7 mb-8 text-center">
-            <h1 class="mb-4">
+            <h1 class="mb-8 text-6xl">
               {{ .title | markdownify }}
             </h1>
-            <p class="mb-8">
+            <p class="mb-8 text-2xl font-light font-primary">
               {{ .content | markdownify }}
             </p>
             {{ with .button }}
@@ -20,9 +20,6 @@
               {{ end }}
             {{ end }}
           </div>
-          <div class="col-12">
-            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto" "Size" "800x") }}
-          </div>
         </div>
       </div>
     </section>
@@ -31,7 +28,7 @@
 
   <!-- Features -->
   {{ range $i, $e:= .Params.features }}
-    <section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">
+    <section class="section-sm {{ if (modBool $i 2) }}bg-[#FFF]{{ end }}">
       <div class="container">
         <div class="row items-center justify-between">
           <div
@@ -93,7 +90,7 @@
                 {{ range .Params.testimonials }}
                   <div class="slide">
                     <div
-                      class="bg-theme-light dark:bg-darkmode-theme-light rounded-lg px-7 py-10">
+                      class="bg-[#f6f6f6] dark:bg-darkmode-theme-light rounded-lg px-7 py-10">
                       <div class="text-dark dark:text-white">
                         <svg
                           width="33"

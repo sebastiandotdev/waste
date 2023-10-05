@@ -8,7 +8,7 @@ logo_darkmode = "images/mod-dark.png"
 
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "180px"
+logo_width = "200px"
 logo_height = "32px"
 
 # if logo_webp set false, will not generate WEBP version of logo | default is true
@@ -21,7 +21,7 @@ logo_text = "Labs Academy"
 navbar_fixed = true
 
 # theme-mode
-theme_switcher = true
+theme_switcher = false
 theme_default = "dark" # available options [light/dark/system]
 
 # Main Sections
@@ -39,7 +39,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 custom_script = ""
 
 # copyright
-copyright = "@copyright 2023 [Labs Academy](https://labsacademy.studio)"
+copyright = "Copyright (c) 2023 - [Labs Academy](https://labsacademy.studio)"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader

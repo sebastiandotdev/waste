@@ -1,9 +1,9 @@
 ---
 # Banner
 banner:
-  title: 'Bienvenido a Labs Academy Online, tu punto de partida hacia el emocionante mundo del desarrollo de software.'
+  title: 'Bienvenido a Labs Academy, tu punto de partida hacia el emocionante mundo del desarrollo de web.'
   content: 'Nuestro compromiso es proporcionar una experiencia de aprendizaje enriquecedora y práctica para que te conviertas en una persona altamente capacitado en tecnología. '
-  image: '/images/banner-astronaut.png'
+  image: '/images/labs-husky-jump.jpeg'
   button:
     enable: true
     label: 'Saber mas'
@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: 'Que aprenderas en el curso?'
-    image: '/images/service-1.png'
+    image: '/images/labs-husky.jpeg'
     content: 'En Labs Academy, creemos en la combinación de la teoría y la práctica. Nuestros cursos están diseñados para brindarte conocimientos sólidos y, al mismo tiempo, permitirte aplicar lo que aprendes a través de proyectos prácticos.'
     bulletpoints:
       - 'Realizaras proyectos practicos'
@@ -27,7 +27,7 @@ features:
       link: 'contact'
 
   - title: 'Porque elegir Labs Academy?'
-    image: '/images/service-2.png'
+    image: '/images/labs-husky-why.jpeg'
     content: 'En Labs Academy, comprendemos que dar tus primeros pasos en el mundo del desarrollo de software puede parecer desafiante, pero estamos aquí para allanar el camino hacia tu éxito. Aquí tienes algunas razones por las que deberías elegirnos::'
     bulletpoints:
       - 'Enfoque en Principiantes.'
@@ -39,7 +39,7 @@ features:
       link: 'https://github.com/zeon-studio/hugoplate'
 
   - title: 'Porque inscribirse?'
-    image: '/images/service-3.png'
+    image: '/images/labs-husky-great.jpeg'
     content: 'te vamos a compartir las razones por las cuales nuestro curso vale totalmente la pena:'
     bulletpoints:
       - '**Mentoría Personalizada**: En nuestra academia, cada estudiante recibe atención personalizada de instructores altamente calificados.'
