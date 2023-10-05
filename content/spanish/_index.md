@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: 'Bienvenido a Labs Academy Online, tu punto de partida hacia el emocionante mundo del desarrollo de software.'
+  title: 'Bienvenido a Labs Academy Online, tu punto de partida hacia el emocionante mundo del desarrollo de web.'
   content: 'Nuestro compromiso es proporcionar una experiencia de aprendizaje enriquecedora y práctica para que te conviertas en una persona altamente capacitado en tecnología. '
   image: '/images/banner-astronaut.png'
   button:
@@ -39,7 +39,7 @@ features:
       link: 'https://github.com/zeon-studio/hugoplate'
 
   - title: 'Porque inscribirse?'
-    image: '/images/service-3.png'
+    image: '/images/labs-husky-great.jpeg'
     content: 'te vamos a compartir las razones por las cuales nuestro curso vale totalmente la pena:'
     bulletpoints:
       - '**Mentoría Personalizada**: En nuestra academia, cada estudiante recibe atención personalizada de instructores altamente calificados.'
