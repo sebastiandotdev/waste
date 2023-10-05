@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: 'Que aprenderas en el curso?'
-    image: '/images/service-1.png'
+    image: '/images/why-learn.jpeg'
     content: 'En Labs Academy, creemos en la combinación de la teoría y la práctica. Nuestros cursos están diseñados para brindarte conocimientos sólidos y, al mismo tiempo, permitirte aplicar lo que aprendes a través de proyectos prácticos.'
     bulletpoints:
       - 'Realizaras proyectos practicos'
