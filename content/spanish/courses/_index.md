@@ -17,4 +17,28 @@ include:
       - 'Aprendizaje practico con proyectos'
       - 'Estructura de una página web.'
       - 'Control de versiones con Git.'
+
+title: Detalles del curso
+details:
+  - title: Bienvenido al curso
+    bulletpoints:
+      - 'Example'
+      - 'Example'
+      - 'Example'
+      - 'Example'
+      - 'Example'
+  - title: Herramientas de desarrollo
+    bulletpoints:
+      - 'Example'
+      - 'Example'
+      - 'Example'
+      - 'Example'
+      - 'Example'
+  - title: Tecnologías
+    bulletpoints:
+      - 'Example'
+      - 'Example'
+      - 'Example'
+      - 'Example'
+      - 'Example'
 ---

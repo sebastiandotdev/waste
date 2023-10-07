@@ -12,20 +12,21 @@
         </div>
       {{ end }}
 
+
       <div class="relative min-h-max">
         <div
           class="bg-white px-6 relative w-[24rem] shadow-lg min-w-max min-h-max lg:mt-4 mt-6 lg:sticky lg:top-0 lg:left-0 lg:right-0 py-6 overflow-auto">
           {{ with .Params.banner }}
-          <div class="relative">
-            <h2 class="text-black">{{ .price }}</h2> 
-            <a class="btn btn-primary mt-6 my-4" href="#">
-              {{ .title }}
-              <i class="fa fa-arrow-right pl-2"></i>
-            </a>
-          </div>
+            <div class="relative">
+              <h2 class="text-black">{{ .price }}</h2>
+              <a class="btn btn-primary mt-6 my-4" href="#">
+                {{ .title }}
+                <i class="fa fa-arrow-right pl-2"></i>
+              </a>
+            </div>
           {{ end }}
           <div>
-            <h2 class="h5 py-4">Este curso incluye: </h2>
+            <h2 class="h5 py-4">Este curso incluye:</h2>
             {{ range $i, $e:= .Params.include }}
 
               <ul>
@@ -41,40 +42,30 @@
         </div>
       </div>
     </article>
-    <article class="px-8 flex justify-start">
-      <div class="lg:px-14 py-4">
-        <h1>content</h1>
+    <article class="px-8 flex justify-start mt-6">
+      <div class="lg:px-14 py-4 bg-white shadow-md min-w-max lg:w-[60vw]">
+        <h2 class="text-center">{{ .Title }}</h2>
+        {{ range .Params.details }}
+          <details class="py-4 px-4">
+            <summary
+              class="cursor-pointer bg-gray-300 shadow text-black px-4 py-2 font-semibold focus:outline-none">
+              {{ .title }}
+            </summary>
+            <div class="px-4 py-2 bg-white shadow">
+              <ul>
+                {{ range .bulletpoints }}
+                  <li
+                    class="py-1 relative hover:underline hover:cursor-pointer pl-5">
+                    <i class="fa fa-check absolute left-0 top-1.5"></i>
+                    {{ . }}
+                  </li>
+                {{ end }}
+              </ul>
+            </div>
+          </details>
+        {{ end }}
+
       </div>
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
     </article>
   </section>
 {{ end }}
