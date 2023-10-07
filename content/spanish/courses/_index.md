@@ -22,23 +22,20 @@ title: Detalles del curso
 details:
   - title: Bienvenido al curso
     bulletpoints:
-      - 'Example'
-      - 'Example'
-      - 'Example'
-      - 'Example'
-      - 'Example'
+      - 'Presentacion'
+      - 'Motivo del curso'
+      - 'Como sera tu flujo de aprendizaje'
   - title: Herramientas de desarrollo
     bulletpoints:
-      - 'Example'
-      - 'Example'
-      - 'Example'
-      - 'Example'
-      - 'Example'
+      - 'Visual Studio Code'
+      - 'Git'
+      - 'Terminal'
+      - 'Github'
+      - 'Herramientas del navegador'
   - title: Tecnologías
     bulletpoints:
-      - 'Example'
-      - 'Example'
-      - 'Example'
-      - 'Example'
-      - 'Example'
+      - 'HTML5'
+      - 'CSS3'
+      - 'Fundamentos de programacion'
+      - 'Introduccion a JavaScript'
 ---

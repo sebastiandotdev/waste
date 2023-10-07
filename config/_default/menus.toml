@@ -18,7 +18,7 @@ weight = 3
 
 [[main]]
 name = "Company"
-url = "https://labs-company.org/"
+url = "https://labs-company.vercel.app/"
 weigth = 4
 
 # footer menu
