@@ -2,7 +2,7 @@
 title: 'Hola, Yo soy Sebastian Garcia'
 meta_title: 'About'
 description: 'Descripcion del Ceo de Labs Academy'
-image: '/images/avatar.png'
+image: '/images/labs-org.png'
 draft: false
 ---
 

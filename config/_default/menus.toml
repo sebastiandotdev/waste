@@ -16,6 +16,11 @@ name = "Cursos"
 url = "courses/"
 weight = 3
 
+[[main]]
+name = "Company"
+url = "https://labs-company.org/"
+weigth = 4
+
 # footer menu
 [[footer]]
 name = "Sobre mi"
