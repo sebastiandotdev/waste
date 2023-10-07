@@ -1,27 +1,26 @@
 // Add your own custom styles here
 
-
 .text-balance {
-    text-wrap: balance;
+  text-wrap: balance;
 }
 
 @keyframes showImages {
-    from {
-        opacity: 0;
-        scale: 25%;
-    }
-    to {
-        opacity: 1;
-        scale: 100%;
-    }
+  from {
+    opacity: 0;
+    scale: 25%;
+  }
+  to {
+    opacity: 1;
+    scale: 100%;
+  }
 }
 
 .show-image {
-    view-timeline-name: --image;
-    view-timeline-axis: block;
-    animation-timeline: --image;
-    animation-name: showImages;
+  view-timeline-name: --image;
+  view-timeline-axis: block;
+  animation-timeline: --image;
+  animation-name: showImages;
 
-    animation-range: entry 25% cover 50%;
-    animation-fill-mode: both;
+  animation-range: entry 25% cover 50%;
+  animation-fill-mode: both;
 }
