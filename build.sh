@@ -5,6 +5,7 @@ NODE_VERSION='18.16.1';
 GO_VERSION='1.20.5';
 HUGO_VERSION='0.118.2';
 
+# WSL
 # install Node.js
 # echo "Installing Node.js $NODE_VERSION..."
 # curl -sSOL https://nodejs.org/dist/v${NODE_VERSION}/node-v${NODE_VERSION}.tar.gz
