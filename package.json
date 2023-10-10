@@ -6,8 +6,8 @@
   "author": "castrogarciajs",
   "scripts": {
     "dev": "hugo server",
-    "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
-    "format": "prettier . --cache --write",
+    "build": "hugo --gc --minify --templateMetrics --templateMetricsHint --forceSyncStatic",
+    "format": "prettier . --cache --write"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "5.0.0",
