@@ -16,3 +16,4 @@ hugo_stats.json
 go.sum
 yarn.lock
 target/
+# Hugo output directory
