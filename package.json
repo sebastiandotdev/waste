@@ -7,13 +7,15 @@
   "scripts": {
     "dev": "hugo server",
     "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
-    "format": "prettier . --cache --write"
+    "format": "prettier . --cache --write",
+    "deploy": "gh-pages -d ./public"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "5.0.0",
     "@tailwindcss/forms": "0.5.6",
     "@tailwindcss/typography": "0.5.10",
     "autoprefixer": "10.4.16",
+    "gh-pages": "6.0.0",
     "postcss": "8.4.31",
     "postcss-cli": "10.1.0",
     "prettier": "3.0.3",
