@@ -21,18 +21,13 @@ features:
 
   - title: 'Mision'
     image: '/images/labs-husky-happy.jpeg'
-    content: 'En Labs Academy, comprendemos que dar tus primeros pasos en el mundo del desarrollo de software puede parecer desafiante, pero estamos aquí para allanar el camino hacia tu éxito. Aquí tienes algunas razones por las que deberías elegirnos:'
-    bulletpoints:
-      - 'Enfoque en Principiantes.'
-      - 'Aprendizaje Práctico.'
-      - 'Apoyo Comunitario.'
-      - 'Cursos en vivo.'
+    content: 'En Labs Company, nuestra misión es diseñar y desarrollar software de alta calidad que resuelva problemas reales y ofrezca soluciones personalizadas a nuestros clientes. Nos esforzamos por impulsar la innovación, la eficiencia y el crecimiento sostenible a través de la tecnología. '
     button:
       enable: false
       label: 'Get Started Now'
       link: 'https://github.com/zeon-studio/hugoplate'
 
-  - title: 'Porque inscribirse?'
+  - title: 'Servicios'
     image: '/images/labs-husky-great.jpeg'
     content: 'te vamos a compartir las razones por las cuales nuestro curso vale totalmente la pena:'
     bulletpoints:
