@@ -7,23 +7,18 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Sobre mi"
+name = "Nosotros"
 url = "about/"
 weight = 2
 
 [[main]]
-name = "Cursos"
-url = "courses/"
+name = "Servicio"
+url = "service/"
 weight = 3
-
-[[main]]
-name = "Company"
-url = "https://labs-company.vercel.app/"
-weigth = 4
 
 # footer menu
 [[footer]]
-name = "Sobre mi"
+name = "Nosotrs"
 url = "about/"
 weight = 1
 
