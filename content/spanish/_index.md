@@ -11,7 +11,7 @@ banner:
 
 # Features
 features:
-  - title: 'Que aprenderas en el curso?'
+  - title: 'Vision'
     image: '/images/labs-husky.jpeg'
     content: 'En Labs Academy, creemos en la combinación de la teoría y la práctica. Nuestros cursos están diseñados para brindarte conocimientos sólidos y, al mismo tiempo, permitirte aplicar lo que aprendes a través de proyectos prácticos.'
     bulletpoints:
@@ -24,7 +24,7 @@ features:
       label: 'Contactanos Ahora!'
       link: 'contact'
 
-  - title: 'Porque elegir Labs Academy?'
+  - title: 'Mision'
     image: '/images/labs-husky-happy.jpeg'
     content: 'En Labs Academy, comprendemos que dar tus primeros pasos en el mundo del desarrollo de software puede parecer desafiante, pero estamos aquí para allanar el camino hacia tu éxito. Aquí tienes algunas razones por las que deberías elegirnos:'
     bulletpoints:
