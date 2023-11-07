@@ -38,24 +38,6 @@ You can change the social links from the `data/social.json` file. Add your socia
 
 We have added some custom scripts to make your life easier. You can use these scripts to help you with your development.
 
-### 👉 Update Modules
-
-We have added a lot of modules to this template. You can update all the modules using the following command.
-
-```bash
-npm run update-modules
-```
-
-### 👉 Remove Dark Mode
-
-If you want to remove dark mode from your project, then you have to do it manually from everywhere. So we build a custom script to do it for you. you can use the following command to remove dark mode from your project.
-
-```bash
-npm run remove-darkmode
-```
-
----
-
 ## 🚀 Build And Deploy
 
 After you finish your development, you can build or deploy your project almost everywhere. Let's see the process:
