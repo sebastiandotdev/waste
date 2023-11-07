@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: 'Bienvenido a Labs Academy, tu punto de partida hacia el emocionante mundo del desarrollo de web.'
-  content: 'Nuestro compromiso es proporcionar una experiencia de aprendizaje enriquecedora y práctica para que te conviertas en una persona altamente capacitado en tecnología. '
+  title: 'Labs Company, creando soluciones, impulsando el progreso.'
+  content: 'La satisfacción del cliente es nuestra prioridad número uno. En Labs Company, trabajamos de la mano con nuestros clientes para garantizar que sus expectativas se cumplan y se superen. Nuestro compromiso es tu éxito.'
   image: '/images/labs-husky-gretting.jpeg'
   button:
     enable: true
@@ -13,12 +13,7 @@ banner:
 features:
   - title: 'Vision'
     image: '/images/labs-husky.jpeg'
-    content: 'En Labs Academy, creemos en la combinación de la teoría y la práctica. Nuestros cursos están diseñados para brindarte conocimientos sólidos y, al mismo tiempo, permitirte aplicar lo que aprendes a través de proyectos prácticos.'
-    bulletpoints:
-      - 'Trabajarás en equipo usando git - github'
-      - 'Aprenderas las bases para realizar Testing'
-      - 'Utilzaras el concepto responsive desing de CSS'
-      - 'Participaras en retos sobre logica de programacion'
+    content: 'Ser reconocidos como líderes globales en el desarrollo de software innovador que impulsa la transformación digital y mejora la vida de las personas y las empresas en todo el mundo. Buscamos ser la primera opción para nuestros clientes a nivel nacional cuando se trata de soluciones tecnológicas de vanguardia.'
     button:
       enable: true
       label: 'Contactanos Ahora!'
