@@ -29,12 +29,12 @@ features:
 
   - title: 'Servicios'
     image: '/images/labs-husky-great.jpeg'
-    content: 'te vamos a compartir las razones por las cuales nuestro curso vale totalmente la pena:'
+    content: 'Te vamos a compartir las razones por las cuales nuestro servicios vale totalmente la pena:'
     bulletpoints:
-      - '**Mentoría Personalizada**: En nuestra academia, cada estudiante recibe atención personalizada de instructores altamente calificados.'
-      - '**Proyectos Prácticos en Tiempo Real**: No solo aprenderás teoría, sino que también trabajarás en proyectos reales desde el primer día.'
-      - '**Flexibilidad de Aprendizaje**: Entendemos que cada estudiante tiene su propio ritmo de aprendizaje. Ofrecemos horarios flexibles y opciones de aprendizaje en línea, lo que te permite estudiar a tu conveniencia, ya sea que estés trabajando o teniendo otras responsabilidades.'
-      - '**Actualización Continua**: En el mundo del desarrollo web, la tecnología avanza rápidamente. Nuestro programa se mantiene al día con las últimas tendencias y tecnologías, asegurándote que adquieras habilidades relevantes y estés preparado para los desafíos del mercado laboral actual.'
+      - 'Traducir el diseño de un sitio a codigo HTML y CSS'
+      - 'Estructurar el contenido semánticamente'
+      - 'Optimizar el sitio para motores de búsqueda'
+      - 'Controlar tipografias, plantillas, formas del diseño y la interactividad'
     button:
       enable: false
       label: 'Precios'
