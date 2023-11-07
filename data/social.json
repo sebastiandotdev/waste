@@ -1,11 +1,6 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/casrtogarciajs"
-    },
-    {
       "name": "twitter",
       "icon": "fab fa-twitter",
       "link": "https://twitter.com/castrogarciajs"
